@@ -1,0 +1,5 @@
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\ViewModel\bin\Debug\ViewModel.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\ViewModel\bin\Debug\ViewModel.pdb
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\ViewModel\obj\Debug\ViewModel.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\ViewModel\obj\Debug\ViewModel.pdb

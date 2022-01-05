@@ -1,0 +1,13 @@
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\BusinessRepository.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\BusinessRepository.pdb
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\DataContext.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\ViewModel.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\EntityFramework.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\DataContext.pdb
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\ViewModel.pdb
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\EntityFramework.xml
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\obj\Debug\BusinessRepository.csprojResolveAssemblyReference.cache
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\obj\Debug\BusinessRepository.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\obj\Debug\BusinessRepository.pdb
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\BusinessRepository\bin\Debug\EntityFramework.SqlServer.xml

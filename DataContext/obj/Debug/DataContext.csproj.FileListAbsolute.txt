@@ -1,0 +1,10 @@
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\bin\Debug\DataContext.dll.config
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\bin\Debug\DataContext.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\bin\Debug\DataContext.pdb
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\bin\Debug\EntityFramework.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\bin\Debug\EntityFramework.xml
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\obj\Debug\DataContext.dll
+c:\users\chaitali\Documents\Visual Studio 2015\Projects\DeltaCore\DataContext\obj\Debug\DataContext.pdb
